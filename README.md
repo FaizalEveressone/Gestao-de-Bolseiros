@@ -1,1 +1,1 @@
-# Gestao-de-Bolseiros
+# Sistema de gestão de estudantes bolseiros da Universidade Joaquim Chissano
